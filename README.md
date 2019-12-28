@@ -8,10 +8,10 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can sign up to create a new account using Parse authentication (1 point)
-- [ ] User can log in and log out of his or her account (1 points)
-- [ ] The current signed in user is persisted across app restarts (1 point)
-- [ ] User can take a photo, add a caption, and post it to "Instagram" (2 points)
+- [X] User can sign up to create a new account using Parse authentication (1 point)
+- [X] User can log in and log out of his or her account (1 points)
+- [X] The current signed in user is persisted across app restarts (1 point)
+- [X] User can take a photo, add a caption, and post it to "Instagram" (2 points)
 
 The following **optional** features are implemented:
 
